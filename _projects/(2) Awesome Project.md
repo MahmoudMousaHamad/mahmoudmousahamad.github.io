@@ -1,20 +1,17 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Pandemic Visualization Tool (PanViz)
+tools: [React, Python, GeoJSON, Kubernetes, GitHub Actions, Data Visualization, Machine Learning]
+image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
+description: PanViz is an interactive data visualization tool designed for real-time COVID-19 trend analysis, featuring custom visual components and scalable microservices.
+external_url: https://www.ou.edu/disc/initiatives/tools/panviz
 ---
 
-# The Movies Project
+# Pandemic Visualization Tool (PanViz)
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+PanViz is an innovative application created to analyze and visualize COVID-19 trends across different regions. By combining the power of React and Python, PanViz offers a robust, scalable solution with automated testing and CI/CD workflows, ensuring reliable performance under high data loads.
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
-
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+![Dashboard](https://www.ou.edu/content/disc/initiatives/tools/panviz/_jcr_content/content/section/par/image.img.jpg/1661194171183.jpg)
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/yousinix/portfolYOU" text="Learn More" %}
+{% include elements/button.html link="https://www.ou.edu/disc/initiatives/tools/panviz" text="Learn More" %}
 </p>
