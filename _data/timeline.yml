@@ -1,17 +1,27 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Bachelor of Computer Science, The University of Oklahoma
+  from: 2017
+  to: 2021
+  description: Focused on Algorithm Analysis, Machine Learning, and Geospatial Data Processing.
+               Graduated with a GPA of 3.9.
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Master of Computer Science, The University of Oklahoma
+  from: 2021
+  to: 2022
+  description: Specialized in Machine Learning, Algorithm Analysis, and Software Engineering.
+               Graduated with a GPA of 3.7.
+
+- title: Software Developer, NextThought
+  from: 2020
+  to: 2021
+  description: Modernized web application frontends using React and TypeScript.
+               Developed Java-based microservices, REST APIs, and improved system reliability.
+
+- title: Software Developer, Data Institute for Societal Challenges, University of Oklahoma
+  from: 2023
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Led the re-architecture and enhancement of SMART, an AI-powered public safety system.
+               Engineered scalable microservices, optimized RESTful APIs, and improved system performance.
+               Developed AI models for misinformation detection and geospatial analytics.
+               Supervised student programmers. Managed a PostgreSQL database server.
+               Migrated over 12 terabytes of data from a legacy system to a new system.
+               Designed, developed, tested, and deployed full-stack web applications.

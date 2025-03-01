@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Experienced Software Engineer with a Master’s in Computer Science specializing in full-stack development, microservices, and DevOps practices. Proven ability to architect and deploy scalable, containerized applications and RESTful services in dynamic, multi-disciplinary environments. Adept at leveraging advanced analytical methods, dynamic simulation concepts, and rapid prototyping to drive digital engineering initiatives. Strong collaborator and mentor with a track record of enhancing system reliability and streamlining development processes.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

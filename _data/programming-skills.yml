@@ -1,15 +1,19 @@
 - name: ReactJS
   percentage: 90
-  color: danger
+  color: primary
 
-- name: JavaScript
+- name: JavaScript/TypeScript
   percentage: 90
-  color:
+  color: primary
 
 - name: HTML5/CSS3
   percentage: 90
-  color: danger
+  color: secondary
 
 - name: Python
+  percentage: 70
+  color: secondary
+
+- name: React Native
   percentage: 70
   color: secondary
