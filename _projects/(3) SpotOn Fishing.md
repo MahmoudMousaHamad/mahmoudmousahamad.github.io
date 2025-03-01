@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f6c63193-b1f2-4ade-9b79-2619b182e97b)![image](https://github.com/user-attachments/assets/bfa4070f-af2d-47a9-a633-b76f92730b73)---
 name: SpotOn Fishing - Mobile Application
 tools: [React Native, MapBox, WMS, XYZ Tiles, TypeScript, NoSQL, Firebase, RevenueCat, Stripe]
 image: https://play-lh.googleusercontent.com/UIVfak0SThbefYbY2d22edyyd-253r9o4Xblbskdn2JQhyUo4CiM5s3IVT9dGnhlFt1p=w5120-h2880-rw
