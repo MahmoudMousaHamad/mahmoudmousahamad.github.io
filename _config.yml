@@ -1,12 +1,12 @@
 ### Site Settings ###
 title               : Mahmoud Hamad
 description         : >-
-                      Welcome to my site! I am a dynamic software developer with 4+ years of experience.
+                      Software Engineer with a Master's in Computer Science and extensive experience in full-stack web and mobile application design, development, testing, and deployment
                       When I'm not coding, I like to run, read, and spend time with my family.
 
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : mahmoudmousahamad/mahmoudmousahamad.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : yousinix/portfolYOU
+remote_theme        : mahmoudmousahamad/portfolYOU
 open_new_tab        : true                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
