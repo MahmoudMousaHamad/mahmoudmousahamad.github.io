@@ -3,7 +3,7 @@ name: Pandemic Visualization Tool (PanViz)
 tools: [React, Python, GeoJSON, Kubernetes, GitHub Actions, Data Visualization, Machine Learning]
 image: https://www.ou.edu/content/disc/initiatives/tools/panviz/_jcr_content/content/section/par/image.img.jpg/1661194171183.jpg
 description: PanViz is an interactive data visualization tool designed for real-time COVID-19 trend analysis, featuring custom visual components and scalable microservices.
-external_url: https://www.ou.edu/disc/initiatives/tools/panviz
+# external_url: https://www.ou.edu/disc/initiatives/tools/panviz
 ---
 
 # Pandemic Visualization Tool (PanViz)

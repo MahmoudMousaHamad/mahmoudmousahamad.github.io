@@ -3,7 +3,7 @@ name: SpotOn Fishing - Mobile Application
 tools: [React Native, MapBox, WMS, XYZ Tiles, TypeScript, NoSQL, Firebase, RevenueCat, Stripe]
 image: https://play-lh.googleusercontent.com/UIVfak0SThbefYbY2d22edyyd-253r9o4Xblbskdn2JQhyUo4CiM5s3IVT9dGnhlFt1p=w5120-h2880-rw
 description: SpotOn Fishing is a cross-platform map-based navigation mobile application built with React Native. It allows users to display different types of maps, overlays, and data on the map in an efficient and user-friendly manner.
-external_url: https://play.google.com/store/apps/details?id=fishing.spoton
+# external_url: https://play.google.com/store/apps/details?id=fishing.spoton
 ---
 
 # SpotOn Fishing - Mobile Application
