@@ -8,15 +8,18 @@ description: SMART is a state-of-the-art data visualization platform that delive
 
 # Social Media Analytics and Reporting Tool (SMART)
 
-SMART is a comprehensive platform that has been completely re-engineered to transform social media data into actionable insights. Leveraging modern technologies such as NextJS, React, and Python with Django, SMART delivers a seamless user experience through interactive visualizations and robust backend integration.
+SMART is a full-stack, AI-powered web application for the real-time monitoring of social media data from Twitter/X and Bluesky.
 
-![Dashboard Overview](https://www.ou.edu/content/disc/initiatives/tools/smart/_jcr_content/content/section/par/image.img.png/1661193773698.png)
+## Features:
+- Data visualization: content lens, user-defined classification, theme river chart, topic modeling, tooltip, map-based data visualization, and more.
+- Human-in-the-loop Machine learning-powered features: human-guided misinformation and relevance classification
+- Real-time functionalities: watch as data posts from Twitter and Bluesky populate the map!
+- Machine translation capabilities: SMART can be viewed in any language, and its features support any language in existence!
 
-## Interactive Data Visualizations
-
-The platform features dynamic graphs, charts, and real-time data updates, enabling users to monitor trends and analyze social media activity across multiple languages.
-
-![Data Insights](https://www.ou.edu/content/disc/initiatives/tools/smart/_jcr_content/content/section/par/image_1712686905.img.png/1661193916785.png)
+## My Contributions:
+- I have written 20 K+ lines of code in multiple services.
+- I have led the development of the new version.
+- I have mentored 15+ students in the process.
 
 <p class="text-center">
 {% include elements/button.html link="https://www.ou.edu/disc/initiatives/tools/smart" text="Learn More" %}
