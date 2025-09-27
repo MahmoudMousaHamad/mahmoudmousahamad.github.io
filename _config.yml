@@ -1,8 +1,9 @@
 ### Site Settings ###
 title               : Mahmoud Hamad
 description         : >-
-                      Software Engineer with a Master's in Computer Science and extensive experience in full-stack web and mobile application design, development, testing, and deployment
-                      When I'm not coding, I like to run, read, and spend time with my family.
+                      Technology enthusiast with passion for build AI solutions to solve real-world and everyday problems. 
+                      # Master's in Computer Science and extensive experience in full-stack web and mobile application design, development, testing, and deployment
+                      # When I'm not coding, I like to run, read, and spend time with my family.
 
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : mahmoudmousahamad/mahmoudmousahamad.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
